@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">splash_android</string>
     <string name="app_name">Simple Intro Slider</string>
     <string name="text_intro1">Travel Everywhere</string>
     <string name="text_intro2">Best Room Rates</string>
