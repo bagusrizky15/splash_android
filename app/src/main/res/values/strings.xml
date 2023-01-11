@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">splash_android</string>
+    <string name="app_name">Simple Intro Slider</string>
+    <string name="text_intro1">Travel Everywhere</string>
+    <string name="text_intro2">Best Room Rates</string>
+    <string name="text_intro3">Exotic Destinations</string>
+    <string name="desc_intro1">Enjoy flight to any destination with so many discounts and promotions</string>
+    <string name="desc_intro2">Book your favorite hotel room with hassle-free and reasonable rates</string>
+    <string name="desc_intro3">Enjoy your beautiful moments to exotic places around the world</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
